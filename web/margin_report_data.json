@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "generated_at": "2026-04-02 22:25:16",
+    "data_range": "2018-01-29 ~ 2026-04-01",
+    "data_source": "上交所融资融券汇总",
+    "signal_definition": "20日融资增速 > 滚动95分位 且 > 3%"
+  },
+  "overheat": {
+    "stats": {
+      "total_signals": 9,
+      "escape_rate_1m": 66.7,
+      "escape_rate_3m": 77.8,
+      "escape_rate_6m": 77.8,
+      "avg_1m": -0.98,
+      "avg_3m": -2.66,
+      "avg_6m": -1.63,
+      "median_1m": -0.67,
+      "median_3m": -2.4,
+      "median_6m": -3.34,
+      "sample_1m": 9,
+      "sample_3m": 9,
+      "sample_6m": 9
+    },
+    "signals": [
+      {
+        "date": "2019-02-25",
+        "margin_balance_bn": 4727.0,
+        "chg_20d": 3.64,
+        "chg_5d": 4.6,
+        "threshold_95": 1.26,
+        "fwd_1m": 2.07,
+        "fwd_3m": -2.4,
+        "fwd_6m": -0.13
+      },
+      {
+        "date": "2019-03-29",
+        "margin_balance_bn": 5559.2,
+        "chg_20d": 14.73,
+        "chg_5d": 1.23,
+        "threshold_95": 14.73,
+        "fwd_1m": -5.96,
+        "fwd_3m": -5.09,
+        "fwd_6m": -3.63
+      },
+      {
+        "date": "2020-07-06",
+        "margin_balance_bn": 6275.6,
+        "chg_20d": 11.63,
+        "chg_5d": 7.62,
+        "threshold_95": 9.77,
+        "fwd_1m": 1.34,
+        "fwd_3m": 0.24,
+        "fwd_6m": 7.01
+      },
+      {
+        "date": "2023-02-24",
+        "margin_balance_bn": 7806.7,
+        "chg_20d": 4.38,
+        "chg_5d": 0.68,
+        "threshold_95": 4.2,
+        "fwd_1m": -0.67,
+        "fwd_3m": -1.14,
+        "fwd_6m": -3.34
+      },
+      {
+        "date": "2023-09-22",
+        "margin_balance_bn": 8016.0,
+        "chg_20d": 3.53,
+        "chg_5d": 0.27,
+        "threshold_95": 3.01,
+        "fwd_1m": -3.49,
+        "fwd_3m": -5.27,
+        "fwd_6m": -4.0
+      },
+      {
+        "date": "2024-03-13",
+        "margin_balance_bn": 7793.9,
+        "chg_20d": 4.15,
+        "chg_5d": 1.51,
+        "threshold_95": 3.0,
+        "fwd_1m": -1.21,
+        "fwd_3m": -1.5,
+        "fwd_6m": -4.85
+      },
+      {
+        "date": "2024-10-08",
+        "margin_balance_bn": 8059.2,
+        "chg_20d": 10.8,
+        "chg_5d": 12.36,
+        "threshold_95": 3.22,
+        "fwd_1m": -0.55,
+        "fwd_3m": -7.98,
+        "fwd_6m": -5.44
+      },
+      {
+        "date": "2024-11-08",
+        "margin_balance_bn": 9242.3,
+        "chg_20d": 12.25,
+        "chg_5d": 5.81,
+        "threshold_95": 6.25,
+        "fwd_1m": -0.86,
+        "fwd_3m": -2.92,
+        "fwd_6m": -3.25
+      },
+      {
+        "date": "2025-08-28",
+        "margin_balance_bn": 11325.7,
+        "chg_20d": 13.15,
+        "chg_5d": 5.01,
+        "threshold_95": 12.27,
+        "fwd_1m": 0.49,
+        "fwd_3m": 2.09,
+        "fwd_6m": 2.95
+      }
+    ]
+  },
+  "bucket_stats": [
+    {
+      "bucket": "-10~-5%",
+      "count": 118,
+      "fwd_1m": 1.85,
+      "fwd_3m": 1.82,
+      "fwd_6m": 1.5
+    },
+    {
+      "bucket": "-5~-2%",
+      "count": 311,
+      "fwd_1m": -0.11,
+      "fwd_3m": 3.08,
+      "fwd_6m": 7.91
+    },
+    {
+      "bucket": "-2~0%",
+      "count": 499,
+      "fwd_1m": -0.16,
+      "fwd_3m": 0.97,
+      "fwd_6m": 1.64
+    },
+    {
+      "bucket": "0~+2%",
+      "count": 456,
+      "fwd_1m": -0.16,
+      "fwd_3m": 0.05,
+      "fwd_6m": 1.28
+    },
+    {
+      "bucket": "+2~+5%",
+      "count": 368,
+      "fwd_1m": -1.23,
+      "fwd_3m": -0.22,
+      "fwd_6m": 1.01
+    },
+    {
+      "bucket": "+5~+10%",
+      "count": 120,
+      "fwd_1m": 0.53,
+      "fwd_3m": -1.17,
+      "fwd_6m": 1.48
+    },
+    {
+      "bucket": "+10~+20%",
+      "count": 87,
+      "fwd_1m": 1.52,
+      "fwd_3m": -0.45,
+      "fwd_6m": 1.65
+    },
+    {
+      "bucket": ">+20%",
+      "count": 18,
+      "fwd_1m": 2.2,
+      "fwd_3m": -1.34,
+      "fwd_6m": 5.32
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDEs
+.idea/
+.vscode/
+.agents/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Data and Cache
+data/cache/
+data/*checkpoint*.json
+data/**/*.db
+data/**/*.sqlite
+data/**/*.sqlite3
+datas/
+export/
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+quant_trading_backup_*.sql
+sqlite3.db
+quant.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Node if any front-end tooling is used later
+node_modules/
+dist/
+build/
+
+# Runtime scratch files
+.api.pid
+.server.pid
+query_db*.py
+query_recent_tasks.py
+query_strategy_tasks.py
+query_v2_*.py
+scratch_*.py
+transcript.txt
+graphify-out/cache/
+
+# Local notes and generated snapshots
+note.md
+* copy.*
+*.bak
+*.backup
+*.current
+tests/screenshots/

@@ -1,0 +1,1078 @@
+{
+  "meta": {
+    "generated_at": "2026-04-02 23:09:09",
+    "ma_period": 120,
+    "threshold": 10.0,
+    "forward_days": 66,
+    "forward_label": "3个月",
+    "circ_mv_unit": "元"
+  },
+  "summary": {
+    "微盘 (<30亿)": {
+      "periods": 32,
+      "win_rate": 62.5,
+      "avg_median_return": 2.81,
+      "overall_median": 9.19,
+      "best": 45.25,
+      "worst": -42.94
+    },
+    "小盘 (30~100亿)": {
+      "periods": 32,
+      "win_rate": 59.4,
+      "avg_median_return": -1.91,
+      "overall_median": 3.73,
+      "best": 32.93,
+      "worst": -45.24
+    },
+    "中盘 (100~500亿)": {
+      "periods": 32,
+      "win_rate": 43.8,
+      "avg_median_return": -2.54,
+      "overall_median": -2.0,
+      "best": 20.56,
+      "worst": -36.66
+    },
+    "大盘 (>500亿)": {
+      "periods": 11,
+      "win_rate": 54.5,
+      "avg_median_return": -2.61,
+      "overall_median": 0.39,
+      "best": 19.59,
+      "worst": -25.53
+    },
+    "全市场等权": {
+      "periods": 32,
+      "win_rate": 62.5,
+      "avg_median_return": -0.61,
+      "overall_median": 5.24
+    }
+  },
+  "details_by_mv": {
+    "微盘 (<30亿)": [
+      {
+        "date": "2008-03-18",
+        "count": 855,
+        "median_return": -37.53,
+        "mean_return": -35.91,
+        "q25": -45.92,
+        "q75": -28.69
+      },
+      {
+        "date": "2008-04-01",
+        "count": 913,
+        "median_return": -23.56,
+        "mean_return": -22.46,
+        "q25": -34.57,
+        "q75": -13.23
+      },
+      {
+        "date": "2008-05-23",
+        "count": 890,
+        "median_return": -42.94,
+        "mean_return": -41.15,
+        "q25": -49.05,
+        "q75": -34.88
+      },
+      {
+        "date": "2008-05-29",
+        "count": 899,
+        "median_return": -40.32,
+        "mean_return": -39.2,
+        "q25": -47.07,
+        "q75": -33.67
+      },
+      {
+        "date": "2010-06-29",
+        "count": 876,
+        "median_return": 26.73,
+        "mean_return": 28.4,
+        "q25": 16.21,
+        "q75": 36.75
+      },
+      {
+        "date": "2011-06-20",
+        "count": 976,
+        "median_return": 3.38,
+        "mean_return": 4.54,
+        "q25": -4.26,
+        "q75": 12.72
+      },
+      {
+        "date": "2011-09-06",
+        "count": 1023,
+        "median_return": -20.11,
+        "mean_return": -19.54,
+        "q25": -28.78,
+        "q75": -12.17
+      },
+      {
+        "date": "2011-09-13",
+        "count": 1025,
+        "median_return": -19.88,
+        "mean_return": -19.03,
+        "q25": -28.65,
+        "q75": -10.85
+      },
+      {
+        "date": "2011-09-19",
+        "count": 1040,
+        "median_return": -23.99,
+        "mean_return": -22.85,
+        "q25": -32.06,
+        "q75": -14.86
+      },
+      {
+        "date": "2011-09-23",
+        "count": 1049,
+        "median_return": -25.6,
+        "mean_return": -23.99,
+        "q25": -32.92,
+        "q75": -15.6
+      },
+      {
+        "date": "2011-10-27",
+        "count": 1129,
+        "median_return": -17.94,
+        "mean_return": -16.69,
+        "q25": -23.17,
+        "q75": -11.74
+      },
+      {
+        "date": "2011-12-12",
+        "count": 1222,
+        "median_return": -0.92,
+        "mean_return": 0.22,
+        "q25": -7.56,
+        "q75": 6.44
+      },
+      {
+        "date": "2012-09-26",
+        "count": 1503,
+        "median_return": 6.8,
+        "mean_return": 9.34,
+        "q25": 0.29,
+        "q75": 15.4
+      },
+      {
+        "date": "2012-11-27",
+        "count": 1575,
+        "median_return": 24.01,
+        "mean_return": 27.5,
+        "q25": 16.38,
+        "q75": 35.44
+      },
+      {
+        "date": "2015-07-07",
+        "count": 411,
+        "median_return": 26.33,
+        "mean_return": 28.45,
+        "q25": 11.36,
+        "q75": 41.84
+      },
+      {
+        "date": "2015-08-24",
+        "count": 395,
+        "median_return": 34.89,
+        "mean_return": 36.41,
+        "q25": 20.33,
+        "q75": 50.53
+      },
+      {
+        "date": "2015-10-21",
+        "count": 407,
+        "median_return": 3.82,
+        "mean_return": 7.66,
+        "q25": -6.26,
+        "q75": 16.03
+      },
+      {
+        "date": "2016-01-13",
+        "count": 503,
+        "median_return": 13.67,
+        "mean_return": 14.02,
+        "q25": 2.87,
+        "q75": 23.87
+      },
+      {
+        "date": "2016-01-15",
+        "count": 512,
+        "median_return": 14.89,
+        "mean_return": 15.33,
+        "q25": 2.41,
+        "q75": 26.51
+      },
+      {
+        "date": "2016-01-26",
+        "count": 524,
+        "median_return": 14.55,
+        "mean_return": 15.34,
+        "q25": 4.53,
+        "q75": 25.93
+      },
+      {
+        "date": "2016-02-29",
+        "count": 569,
+        "median_return": 19.81,
+        "mean_return": 18.0,
+        "q25": 8.04,
+        "q75": 33.2
+      },
+      {
+        "date": "2016-03-09",
+        "count": 506,
+        "median_return": 11.57,
+        "mean_return": 9.22,
+        "q25": -2.49,
+        "q75": 25.05
+      },
+      {
+        "date": "2016-03-16",
+        "count": 501,
+        "median_return": 13.0,
+        "mean_return": 8.79,
+        "q25": -5.7,
+        "q75": 26.0
+      },
+      {
+        "date": "2018-02-06",
+        "count": 1146,
+        "median_return": 16.22,
+        "mean_return": 19.02,
+        "q25": 5.66,
+        "q75": 30.46
+      },
+      {
+        "date": "2018-02-09",
+        "count": 1154,
+        "median_return": 13.8,
+        "mean_return": 16.47,
+        "q25": 3.51,
+        "q75": 27.85
+      },
+      {
+        "date": "2018-06-19",
+        "count": 1418,
+        "median_return": -7.07,
+        "mean_return": -7.46,
+        "q25": -17.2,
+        "q75": 1.74
+      },
+      {
+        "date": "2018-08-01",
+        "count": 1465,
+        "median_return": -13.57,
+        "mean_return": -12.35,
+        "q25": -20.06,
+        "q75": -6.46
+      },
+      {
+        "date": "2022-04-25",
+        "count": 1912,
+        "median_return": 19.39,
+        "mean_return": 25.28,
+        "q25": 6.83,
+        "q75": 35.95
+      },
+      {
+        "date": "2022-05-06",
+        "count": 1882,
+        "median_return": 18.4,
+        "mean_return": 23.56,
+        "q25": 5.07,
+        "q75": 34.82
+      },
+      {
+        "date": "2024-01-31",
+        "count": 2323,
+        "median_return": 3.27,
+        "mean_return": 5.73,
+        "q25": -5.91,
+        "q75": 13.6
+      },
+      {
+        "date": "2024-08-22",
+        "count": 2615,
+        "median_return": 45.25,
+        "mean_return": 61.26,
+        "q25": 31.39,
+        "q75": 67.98
+      },
+      {
+        "date": "2024-09-13",
+        "count": 2611,
+        "median_return": 33.49,
+        "mean_return": 45.38,
+        "q25": 21.85,
+        "q75": 55.18
+      }
+    ],
+    "小盘 (30~100亿)": [
+      {
+        "date": "2008-03-18",
+        "count": 428,
+        "median_return": -34.71,
+        "mean_return": -33.89,
+        "q25": -45.34,
+        "q75": -22.99
+      },
+      {
+        "date": "2008-04-01",
+        "count": 402,
+        "median_return": -22.61,
+        "mean_return": -22.61,
+        "q25": -35.18,
+        "q75": -11.18
+      },
+      {
+        "date": "2008-05-23",
+        "count": 430,
+        "median_return": -45.24,
+        "mean_return": -42.81,
+        "q25": -52.3,
+        "q75": -35.16
+      },
+      {
+        "date": "2008-05-29",
+        "count": 427,
+        "median_return": -42.92,
+        "mean_return": -41.72,
+        "q25": -51.38,
+        "q75": -33.62
+      },
+      {
+        "date": "2010-06-29",
+        "count": 646,
+        "median_return": 23.6,
+        "mean_return": 26.4,
+        "q25": 12.1,
+        "q75": 37.56
+      },
+      {
+        "date": "2011-06-20",
+        "count": 880,
+        "median_return": -2.32,
+        "mean_return": -1.81,
+        "q25": -10.41,
+        "q75": 6.69
+      },
+      {
+        "date": "2011-09-06",
+        "count": 902,
+        "median_return": -21.83,
+        "mean_return": -20.56,
+        "q25": -29.65,
+        "q75": -11.82
+      },
+      {
+        "date": "2011-09-13",
+        "count": 910,
+        "median_return": -21.13,
+        "mean_return": -19.9,
+        "q25": -29.17,
+        "q75": -11.3
+      },
+      {
+        "date": "2011-09-19",
+        "count": 912,
+        "median_return": -22.9,
+        "mean_return": -21.46,
+        "q25": -30.73,
+        "q75": -12.58
+      },
+      {
+        "date": "2011-09-23",
+        "count": 915,
+        "median_return": -23.72,
+        "mean_return": -22.36,
+        "q25": -31.02,
+        "q75": -13.95
+      },
+      {
+        "date": "2011-10-27",
+        "count": 849,
+        "median_return": -14.63,
+        "mean_return": -13.83,
+        "q25": -19.84,
+        "q75": -8.14
+      },
+      {
+        "date": "2011-12-12",
+        "count": 795,
+        "median_return": 1.71,
+        "mean_return": 3.22,
+        "q25": -4.52,
+        "q75": 9.72
+      },
+      {
+        "date": "2012-09-26",
+        "count": 725,
+        "median_return": 7.69,
+        "mean_return": 10.09,
+        "q25": 0.55,
+        "q75": 16.9
+      },
+      {
+        "date": "2012-11-27",
+        "count": 694,
+        "median_return": 18.47,
+        "mean_return": 22.37,
+        "q25": 10.35,
+        "q75": 30.53
+      },
+      {
+        "date": "2015-07-07",
+        "count": 1187,
+        "median_return": 12.32,
+        "mean_return": 14.65,
+        "q25": -0.63,
+        "q75": 26.58
+      },
+      {
+        "date": "2015-08-24",
+        "count": 1566,
+        "median_return": 16.23,
+        "mean_return": 17.76,
+        "q25": 3.02,
+        "q75": 31.06
+      },
+      {
+        "date": "2015-10-21",
+        "count": 1635,
+        "median_return": -8.14,
+        "mean_return": -5.63,
+        "q25": -17.03,
+        "q75": 1.79
+      },
+      {
+        "date": "2016-01-13",
+        "count": 1739,
+        "median_return": 3.7,
+        "mean_return": 5.22,
+        "q25": -4.64,
+        "q75": 13.0
+      },
+      {
+        "date": "2016-01-15",
+        "count": 1736,
+        "median_return": 4.74,
+        "mean_return": 6.57,
+        "q25": -3.56,
+        "q75": 14.9
+      },
+      {
+        "date": "2016-01-26",
+        "count": 1749,
+        "median_return": 7.39,
+        "mean_return": 8.54,
+        "q25": -0.48,
+        "q75": 17.84
+      },
+      {
+        "date": "2016-02-29",
+        "count": 1690,
+        "median_return": 10.05,
+        "mean_return": 10.52,
+        "q25": 1.02,
+        "q75": 22.28
+      },
+      {
+        "date": "2016-03-09",
+        "count": 1754,
+        "median_return": 2.11,
+        "mean_return": 2.88,
+        "q25": -7.35,
+        "q75": 14.26
+      },
+      {
+        "date": "2016-03-16",
+        "count": 1777,
+        "median_return": 3.75,
+        "mean_return": 4.04,
+        "q25": -6.72,
+        "q75": 16.3
+      },
+      {
+        "date": "2018-02-06",
+        "count": 1677,
+        "median_return": 5.69,
+        "mean_return": 7.47,
+        "q25": -4.64,
+        "q75": 17.34
+      },
+      {
+        "date": "2018-02-09",
+        "count": 1669,
+        "median_return": 3.95,
+        "mean_return": 6.54,
+        "q25": -4.13,
+        "q75": 15.49
+      },
+      {
+        "date": "2018-06-19",
+        "count": 1720,
+        "median_return": -6.85,
+        "mean_return": -7.97,
+        "q25": -16.88,
+        "q75": 1.02
+      },
+      {
+        "date": "2018-08-01",
+        "count": 1809,
+        "median_return": -13.55,
+        "mean_return": -13.32,
+        "q25": -21.54,
+        "q75": -5.82
+      },
+      {
+        "date": "2022-04-25",
+        "count": 2468,
+        "median_return": 14.49,
+        "mean_return": 22.0,
+        "q25": 1.66,
+        "q75": 34.03
+      },
+      {
+        "date": "2022-05-06",
+        "count": 2496,
+        "median_return": 10.41,
+        "mean_return": 16.89,
+        "q25": -0.59,
+        "q75": 28.03
+      },
+      {
+        "date": "2024-01-31",
+        "count": 2802,
+        "median_return": 10.29,
+        "mean_return": 12.72,
+        "q25": 0.82,
+        "q75": 21.87
+      },
+      {
+        "date": "2024-08-22",
+        "count": 2589,
+        "median_return": 32.93,
+        "mean_return": 40.55,
+        "q25": 19.32,
+        "q75": 52.26
+      },
+      {
+        "date": "2024-09-13",
+        "count": 2597,
+        "median_return": 29.8,
+        "mean_return": 36.84,
+        "q25": 18.73,
+        "q75": 46.07
+      }
+    ],
+    "中盘 (100~500亿)": [
+      {
+        "date": "2008-03-18",
+        "count": 8,
+        "median_return": -22.74,
+        "mean_return": -30.83,
+        "q25": -49.75,
+        "q75": -15.66
+      },
+      {
+        "date": "2008-04-01",
+        "count": 7,
+        "median_return": -36.66,
+        "mean_return": -38.68,
+        "q25": -46.53,
+        "q75": -27.21
+      },
+      {
+        "date": "2008-05-23",
+        "count": 10,
+        "median_return": -24.9,
+        "mean_return": -32.7,
+        "q25": -44.32,
+        "q75": -21.34
+      },
+      {
+        "date": "2008-05-29",
+        "count": 9,
+        "median_return": -24.9,
+        "mean_return": -30.12,
+        "q25": -37.36,
+        "q75": -17.35
+      },
+      {
+        "date": "2010-06-29",
+        "count": 12,
+        "median_return": 5.05,
+        "mean_return": 9.63,
+        "q25": 0.87,
+        "q75": 12.87
+      },
+      {
+        "date": "2011-06-20",
+        "count": 20,
+        "median_return": -4.66,
+        "mean_return": -4.63,
+        "q25": -9.72,
+        "q75": 1.12
+      },
+      {
+        "date": "2011-09-06",
+        "count": 17,
+        "median_return": -6.81,
+        "mean_return": -6.62,
+        "q25": -11.82,
+        "q75": -1.64
+      },
+      {
+        "date": "2011-09-13",
+        "count": 18,
+        "median_return": -5.14,
+        "mean_return": -6.21,
+        "q25": -10.34,
+        "q75": -0.03
+      },
+      {
+        "date": "2011-09-19",
+        "count": 18,
+        "median_return": -4.46,
+        "mean_return": -5.95,
+        "q25": -12.94,
+        "q75": -1.0
+      },
+      {
+        "date": "2011-09-23",
+        "count": 18,
+        "median_return": -4.69,
+        "mean_return": -4.78,
+        "q25": -10.08,
+        "q75": 0.54
+      },
+      {
+        "date": "2011-10-27",
+        "count": 18,
+        "median_return": 0.82,
+        "mean_return": -0.61,
+        "q25": -6.98,
+        "q75": 5.51
+      },
+      {
+        "date": "2011-12-12",
+        "count": 16,
+        "median_return": 3.6,
+        "mean_return": 3.0,
+        "q25": 0.85,
+        "q75": 5.91
+      },
+      {
+        "date": "2012-09-26",
+        "count": 15,
+        "median_return": 18.64,
+        "mean_return": 21.75,
+        "q25": 14.71,
+        "q75": 37.39
+      },
+      {
+        "date": "2012-11-27",
+        "count": 14,
+        "median_return": 20.56,
+        "mean_return": 22.05,
+        "q25": 13.65,
+        "q75": 31.72
+      },
+      {
+        "date": "2015-07-07",
+        "count": 34,
+        "median_return": -19.27,
+        "mean_return": -17.61,
+        "q25": -25.4,
+        "q75": -8.91
+      },
+      {
+        "date": "2015-08-24",
+        "count": 29,
+        "median_return": 20.2,
+        "mean_return": 18.86,
+        "q25": 7.05,
+        "q75": 29.79
+      },
+      {
+        "date": "2015-10-21",
+        "count": 25,
+        "median_return": -15.83,
+        "mean_return": -14.88,
+        "q25": -21.82,
+        "q75": -7.13
+      },
+      {
+        "date": "2016-01-13",
+        "count": 28,
+        "median_return": 0.23,
+        "mean_return": 0.53,
+        "q25": -5.48,
+        "q75": 5.71
+      },
+      {
+        "date": "2016-01-15",
+        "count": 28,
+        "median_return": 2.82,
+        "mean_return": 2.51,
+        "q25": -2.57,
+        "q75": 8.52
+      },
+      {
+        "date": "2016-01-26",
+        "count": 26,
+        "median_return": 6.5,
+        "mean_return": 5.52,
+        "q25": 1.67,
+        "q75": 10.21
+      },
+      {
+        "date": "2016-02-29",
+        "count": 24,
+        "median_return": 9.31,
+        "mean_return": 10.16,
+        "q25": 5.91,
+        "q75": 12.4
+      },
+      {
+        "date": "2016-03-09",
+        "count": 25,
+        "median_return": -1.88,
+        "mean_return": -1.72,
+        "q25": -4.92,
+        "q75": 1.91
+      },
+      {
+        "date": "2016-03-16",
+        "count": 27,
+        "median_return": -2.13,
+        "mean_return": -3.08,
+        "q25": -10.45,
+        "q75": 0.49
+      },
+      {
+        "date": "2018-02-06",
+        "count": 42,
+        "median_return": -13.71,
+        "mean_return": -10.32,
+        "q25": -17.91,
+        "q75": -5.88
+      },
+      {
+        "date": "2018-02-09",
+        "count": 38,
+        "median_return": -6.99,
+        "mean_return": -3.8,
+        "q25": -10.11,
+        "q75": -0.38
+      },
+      {
+        "date": "2018-06-19",
+        "count": 36,
+        "median_return": -10.48,
+        "mean_return": -10.34,
+        "q25": -15.32,
+        "q75": -3.41
+      },
+      {
+        "date": "2018-08-01",
+        "count": 38,
+        "median_return": -5.09,
+        "mean_return": -6.02,
+        "q25": -12.42,
+        "q75": 3.04
+      },
+      {
+        "date": "2022-04-25",
+        "count": 74,
+        "median_return": 0.1,
+        "mean_return": 4.55,
+        "q25": -8.77,
+        "q75": 10.19
+      },
+      {
+        "date": "2022-05-06",
+        "count": 78,
+        "median_return": -0.64,
+        "mean_return": 2.36,
+        "q25": -8.94,
+        "q75": 8.85
+      },
+      {
+        "date": "2024-01-31",
+        "count": 73,
+        "median_return": 12.0,
+        "mean_return": 13.96,
+        "q25": 4.45,
+        "q75": 19.86
+      },
+      {
+        "date": "2024-08-22",
+        "count": 76,
+        "median_return": 9.8,
+        "mean_return": 15.47,
+        "q25": 4.17,
+        "q75": 20.68
+      },
+      {
+        "date": "2024-09-13",
+        "count": 69,
+        "median_return": 20.0,
+        "mean_return": 21.99,
+        "q25": 10.74,
+        "q75": 26.53
+      }
+    ],
+    "大盘 (>500亿)": [
+      {
+        "date": "2015-07-07",
+        "count": 6,
+        "median_return": -25.53,
+        "mean_return": -26.09,
+        "q25": -29.51,
+        "q75": -22.15
+      },
+      {
+        "date": "2015-10-21",
+        "count": 5,
+        "median_return": -14.39,
+        "mean_return": -12.88,
+        "q25": -17.83,
+        "q75": -11.53
+      },
+      {
+        "date": "2018-02-06",
+        "count": 9,
+        "median_return": -14.59,
+        "mean_return": -11.64,
+        "q25": -18.49,
+        "q75": -2.95
+      },
+      {
+        "date": "2018-02-09",
+        "count": 9,
+        "median_return": -4.88,
+        "mean_return": -4.21,
+        "q25": -10.96,
+        "q75": 2.26
+      },
+      {
+        "date": "2018-06-19",
+        "count": 9,
+        "median_return": -2.04,
+        "mean_return": -0.11,
+        "q25": -5.32,
+        "q75": 4.93
+      },
+      {
+        "date": "2018-08-01",
+        "count": 8,
+        "median_return": 1.12,
+        "mean_return": -1.61,
+        "q25": -4.62,
+        "q75": 3.65
+      },
+      {
+        "date": "2022-04-25",
+        "count": 10,
+        "median_return": 3.56,
+        "mean_return": 4.54,
+        "q25": -7.15,
+        "q75": 10.16
+      },
+      {
+        "date": "2022-05-06",
+        "count": 10,
+        "median_return": 0.57,
+        "mean_return": 3.02,
+        "q25": -6.5,
+        "q75": 6.34
+      },
+      {
+        "date": "2024-01-31",
+        "count": 11,
+        "median_return": 7.46,
+        "mean_return": 12.36,
+        "q25": 6.09,
+        "q75": 16.69
+      },
+      {
+        "date": "2024-08-22",
+        "count": 11,
+        "median_return": 0.39,
+        "mean_return": 7.15,
+        "q25": -4.53,
+        "q75": 9.87
+      },
+      {
+        "date": "2024-09-13",
+        "count": 11,
+        "median_return": 19.59,
+        "mean_return": 20.37,
+        "q25": 13.76,
+        "q75": 25.06
+      }
+    ]
+  },
+  "details_all": [
+    {
+      "date": "2008-03-18",
+      "median_return": -36.41,
+      "count": 1291
+    },
+    {
+      "date": "2008-04-01",
+      "median_return": -23.45,
+      "count": 1322
+    },
+    {
+      "date": "2008-05-23",
+      "median_return": -43.49,
+      "count": 1330
+    },
+    {
+      "date": "2008-05-29",
+      "median_return": -40.77,
+      "count": 1335
+    },
+    {
+      "date": "2010-06-29",
+      "median_return": 25.25,
+      "count": 1538
+    },
+    {
+      "date": "2011-06-20",
+      "median_return": 0.52,
+      "count": 1880
+    },
+    {
+      "date": "2011-09-06",
+      "median_return": -20.51,
+      "count": 1945
+    },
+    {
+      "date": "2011-09-13",
+      "median_return": -20.34,
+      "count": 1956
+    },
+    {
+      "date": "2011-09-19",
+      "median_return": -23.38,
+      "count": 1973
+    },
+    {
+      "date": "2011-09-23",
+      "median_return": -24.38,
+      "count": 1985
+    },
+    {
+      "date": "2011-10-27",
+      "median_return": -16.37,
+      "count": 1999
+    },
+    {
+      "date": "2011-12-12",
+      "median_return": 0.06,
+      "count": 2037
+    },
+    {
+      "date": "2012-09-26",
+      "median_return": 7.15,
+      "count": 2246
+    },
+    {
+      "date": "2012-11-27",
+      "median_return": 22.42,
+      "count": 2286
+    },
+    {
+      "date": "2015-07-07",
+      "median_return": 14.87,
+      "count": 1638
+    },
+    {
+      "date": "2015-08-24",
+      "median_return": 19.65,
+      "count": 1994
+    },
+    {
+      "date": "2015-10-21",
+      "median_return": -6.2,
+      "count": 2072
+    },
+    {
+      "date": "2016-01-13",
+      "median_return": 5.6,
+      "count": 2274
+    },
+    {
+      "date": "2016-01-15",
+      "median_return": 6.4,
+      "count": 2280
+    },
+    {
+      "date": "2016-01-26",
+      "median_return": 8.74,
+      "count": 2303
+    },
+    {
+      "date": "2016-02-29",
+      "median_return": 12.19,
+      "count": 2287
+    },
+    {
+      "date": "2016-03-09",
+      "median_return": 3.6,
+      "count": 2289
+    },
+    {
+      "date": "2016-03-16",
+      "median_return": 4.89,
+      "count": 2309
+    },
+    {
+      "date": "2018-02-06",
+      "median_return": 9.43,
+      "count": 2874
+    },
+    {
+      "date": "2018-02-09",
+      "median_return": 7.65,
+      "count": 2870
+    },
+    {
+      "date": "2018-06-19",
+      "median_return": -6.94,
+      "count": 3183
+    },
+    {
+      "date": "2018-08-01",
+      "median_return": -13.45,
+      "count": 3320
+    },
+    {
+      "date": "2022-04-25",
+      "median_return": 16.45,
+      "count": 4464
+    },
+    {
+      "date": "2022-05-06",
+      "median_return": 13.91,
+      "count": 4466
+    },
+    {
+      "date": "2024-01-31",
+      "median_return": 7.16,
+      "count": 5209
+    },
+    {
+      "date": "2024-08-22",
+      "median_return": 39.04,
+      "count": 5291
+    },
+    {
+      "date": "2024-09-13",
+      "median_return": 31.13,
+      "count": 5288
+    }
+  ]
+}

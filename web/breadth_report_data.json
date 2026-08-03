@@ -1,0 +1,1042 @@
+{
+  "meta": {
+    "generated_at": "2026-04-02 21:58:00",
+    "data_range": "2006-01-04 ~ 2026-03-31",
+    "threshold": 10.0,
+    "signal_definition": "广度首次从 ≥10% 跌破 <10% 的那一天"
+  },
+  "reports": {
+    "60": {
+      "stats": {
+        "ma_period": 60,
+        "ma_label": "季线(60日)",
+        "total_triggers": 53,
+        "win_rate_3m": 66.0,
+        "win_rate_6m": 43.4,
+        "avg_return_3m": -1.11,
+        "avg_return_6m": -1.5,
+        "median_return_3m": 4.02,
+        "median_return_6m": -6.77,
+        "sample_3m": 53,
+        "sample_6m": 53
+      },
+      "ice_periods": [
+        {
+          "trigger_date": "2007-11-13",
+          "end_date": "2007-11-13",
+          "duration_days": 1,
+          "trigger_breadth": 9.77,
+          "min_breadth": 9.77,
+          "fwd_3m_return": 18.93,
+          "fwd_6m_return": -20.14
+        },
+        {
+          "trigger_date": "2007-11-22",
+          "end_date": "2007-11-22",
+          "duration_days": 1,
+          "trigger_breadth": 9.0,
+          "min_breadth": 9.0,
+          "fwd_3m_return": 20.33,
+          "fwd_6m_return": -30.1
+        },
+        {
+          "trigger_date": "2007-11-27",
+          "end_date": "2007-11-28",
+          "duration_days": 2,
+          "trigger_breadth": 9.61,
+          "min_breadth": 8.96,
+          "fwd_3m_return": 20.06,
+          "fwd_6m_return": -34.88
+        },
+        {
+          "trigger_date": "2008-03-17",
+          "end_date": "2008-03-20",
+          "duration_days": 4,
+          "trigger_breadth": 7.43,
+          "min_breadth": 3.27,
+          "fwd_3m_return": -41.54,
+          "fwd_6m_return": -57.11
+        },
+        {
+          "trigger_date": "2008-03-24",
+          "end_date": "2008-03-24",
+          "duration_days": 1,
+          "trigger_breadth": 9.58,
+          "min_breadth": 9.58,
+          "fwd_3m_return": -39.15,
+          "fwd_6m_return": -57.97
+        },
+        {
+          "trigger_date": "2008-03-27",
+          "end_date": "2008-04-29",
+          "duration_days": 23,
+          "trigger_breadth": 6.27,
+          "min_breadth": 1.01,
+          "fwd_3m_return": -35.15,
+          "fwd_6m_return": -58.64
+        },
+        {
+          "trigger_date": "2008-06-10",
+          "end_date": "2008-07-08",
+          "duration_days": 21,
+          "trigger_breadth": 4.52,
+          "min_breadth": 1.19,
+          "fwd_3m_return": -38.22,
+          "fwd_6m_return": -34.3
+        },
+        {
+          "trigger_date": "2008-07-10",
+          "end_date": "2008-07-11",
+          "duration_days": 2,
+          "trigger_breadth": 9.04,
+          "min_breadth": 8.52,
+          "fwd_3m_return": -43.85,
+          "fwd_6m_return": -26.74
+        },
+        {
+          "trigger_date": "2008-07-15",
+          "end_date": "2008-07-18",
+          "duration_days": 4,
+          "trigger_breadth": 8.32,
+          "min_breadth": 4.29,
+          "fwd_3m_return": -43.56,
+          "fwd_6m_return": -21.47
+        },
+        {
+          "trigger_date": "2008-07-31",
+          "end_date": "2008-07-31",
+          "duration_days": 1,
+          "trigger_breadth": 9.44,
+          "min_breadth": 9.44,
+          "fwd_3m_return": -43.27,
+          "fwd_6m_return": -9.87
+        },
+        {
+          "trigger_date": "2008-08-05",
+          "end_date": "2008-08-06",
+          "duration_days": 2,
+          "trigger_breadth": 8.13,
+          "min_breadth": 8.13,
+          "fwd_3m_return": -37.71,
+          "fwd_6m_return": -4.8
+        },
+        {
+          "trigger_date": "2008-08-08",
+          "end_date": "2008-11-12",
+          "duration_days": 63,
+          "trigger_breadth": 4.83,
+          "min_breadth": 0.53,
+          "fwd_3m_return": -32.97,
+          "fwd_6m_return": -9.57
+        },
+        {
+          "trigger_date": "2010-05-12",
+          "end_date": "2010-05-12",
+          "duration_days": 1,
+          "trigger_breadth": 7.56,
+          "min_breadth": 7.56,
+          "fwd_3m_return": 12.14,
+          "fwd_6m_return": 40.14
+        },
+        {
+          "trigger_date": "2010-05-17",
+          "end_date": "2010-05-21",
+          "duration_days": 5,
+          "trigger_breadth": 7.77,
+          "min_breadth": 7.67,
+          "fwd_3m_return": 13.68,
+          "fwd_6m_return": 40.75
+        },
+        {
+          "trigger_date": "2010-06-18",
+          "end_date": "2010-06-21",
+          "duration_days": 2,
+          "trigger_breadth": 6.23,
+          "min_breadth": 6.23,
+          "fwd_3m_return": 15.86,
+          "fwd_6m_return": 35.78
+        },
+        {
+          "trigger_date": "2010-06-25",
+          "end_date": "2010-07-09",
+          "duration_days": 11,
+          "trigger_breadth": 8.99,
+          "min_breadth": 2.09,
+          "fwd_3m_return": 15.68,
+          "fwd_6m_return": 29.94
+        },
+        {
+          "trigger_date": "2010-07-15",
+          "end_date": "2010-07-15",
+          "duration_days": 1,
+          "trigger_breadth": 9.57,
+          "min_breadth": 9.57,
+          "fwd_3m_return": 35.53,
+          "fwd_6m_return": 33.16
+        },
+        {
+          "trigger_date": "2011-01-25",
+          "end_date": "2011-01-26",
+          "duration_days": 2,
+          "trigger_breadth": 7.56,
+          "min_breadth": 7.56,
+          "fwd_3m_return": 0.59,
+          "fwd_6m_return": -12.54
+        },
+        {
+          "trigger_date": "2011-05-27",
+          "end_date": "2011-06-23",
+          "duration_days": 19,
+          "trigger_breadth": 6.24,
+          "min_breadth": 3.74,
+          "fwd_3m_return": 4.02,
+          "fwd_6m_return": -11.3
+        },
+        {
+          "trigger_date": "2011-09-26",
+          "end_date": "2011-10-12",
+          "duration_days": 8,
+          "trigger_breadth": 9.33,
+          "min_breadth": 3.69,
+          "fwd_3m_return": -23.02,
+          "fwd_6m_return": -9.96
+        },
+        {
+          "trigger_date": "2011-10-18",
+          "end_date": "2011-10-24",
+          "duration_days": 5,
+          "trigger_breadth": 7.94,
+          "min_breadth": 5.1,
+          "fwd_3m_return": -16.33,
+          "fwd_6m_return": -6.77
+        },
+        {
+          "trigger_date": "2011-12-13",
+          "end_date": "2011-12-16",
+          "duration_days": 4,
+          "trigger_breadth": 7.69,
+          "min_breadth": 5.33,
+          "fwd_3m_return": 3.16,
+          "fwd_6m_return": -10.79
+        },
+        {
+          "trigger_date": "2011-12-20",
+          "end_date": "2012-02-02",
+          "duration_days": 26,
+          "trigger_breadth": 8.65,
+          "min_breadth": 2.56,
+          "fwd_3m_return": -4.0,
+          "fwd_6m_return": -13.94
+        },
+        {
+          "trigger_date": "2012-02-07",
+          "end_date": "2012-02-07",
+          "duration_days": 1,
+          "trigger_breadth": 9.87,
+          "min_breadth": 9.87,
+          "fwd_3m_return": 3.01,
+          "fwd_6m_return": -9.65
+        },
+        {
+          "trigger_date": "2012-07-31",
+          "end_date": "2012-07-31",
+          "duration_days": 1,
+          "trigger_breadth": 9.36,
+          "min_breadth": 9.36,
+          "fwd_3m_return": 2.65,
+          "fwd_6m_return": 14.69
+        },
+        {
+          "trigger_date": "2012-11-27",
+          "end_date": "2012-12-04",
+          "duration_days": 6,
+          "trigger_breadth": 9.12,
+          "min_breadth": 6.27,
+          "fwd_3m_return": 27.16,
+          "fwd_6m_return": 12.1
+        },
+        {
+          "trigger_date": "2015-07-02",
+          "end_date": "2015-07-20",
+          "duration_days": 13,
+          "trigger_breadth": 9.55,
+          "min_breadth": 1.33,
+          "fwd_3m_return": -13.51,
+          "fwd_6m_return": -14.56
+        },
+        {
+          "trigger_date": "2015-07-27",
+          "end_date": "2015-08-07",
+          "duration_days": 10,
+          "trigger_breadth": 6.95,
+          "min_breadth": 4.22,
+          "fwd_3m_return": -3.76,
+          "fwd_6m_return": -19.41
+        },
+        {
+          "trigger_date": "2015-08-21",
+          "end_date": "2015-09-30",
+          "duration_days": 27,
+          "trigger_breadth": 6.17,
+          "min_breadth": 1.34,
+          "fwd_3m_return": 9.42,
+          "fwd_6m_return": -19.02
+        },
+        {
+          "trigger_date": "2016-01-11",
+          "end_date": "2016-02-18",
+          "duration_days": 24,
+          "trigger_breadth": 7.96,
+          "min_breadth": 2.29,
+          "fwd_3m_return": 3.05,
+          "fwd_6m_return": 3.52
+        },
+        {
+          "trigger_date": "2016-02-25",
+          "end_date": "2016-03-02",
+          "duration_days": 5,
+          "trigger_breadth": 5.6,
+          "min_breadth": 3.88,
+          "fwd_3m_return": 2.68,
+          "fwd_6m_return": 9.68
+        },
+        {
+          "trigger_date": "2016-03-04",
+          "end_date": "2016-03-04",
+          "duration_days": 1,
+          "trigger_breadth": 8.58,
+          "min_breadth": 8.58,
+          "fwd_3m_return": 10.38,
+          "fwd_6m_return": 12.63
+        },
+        {
+          "trigger_date": "2016-03-09",
+          "end_date": "2016-03-11",
+          "duration_days": 3,
+          "trigger_breadth": 8.14,
+          "min_breadth": 5.98,
+          "fwd_3m_return": 6.52,
+          "fwd_6m_return": 12.06
+        },
+        {
+          "trigger_date": "2016-03-15",
+          "end_date": "2016-03-16",
+          "duration_days": 2,
+          "trigger_breadth": 9.59,
+          "min_breadth": 8.94,
+          "fwd_3m_return": 4.11,
+          "fwd_6m_return": 10.66
+        },
+        {
+          "trigger_date": "2017-05-23",
+          "end_date": "2017-05-23",
+          "duration_days": 1,
+          "trigger_breadth": 9.78,
+          "min_breadth": 9.78,
+          "fwd_3m_return": 0.87,
+          "fwd_6m_return": -0.88
+        },
+        {
+          "trigger_date": "2018-02-07",
+          "end_date": "2018-02-07",
+          "duration_days": 1,
+          "trigger_breadth": 9.82,
+          "min_breadth": 9.82,
+          "fwd_3m_return": 13.89,
+          "fwd_6m_return": -17.42
+        },
+        {
+          "trigger_date": "2018-02-09",
+          "end_date": "2018-02-14",
+          "duration_days": 4,
+          "trigger_breadth": 5.24,
+          "min_breadth": 5.24,
+          "fwd_3m_return": 13.76,
+          "fwd_6m_return": -14.03
+        },
+        {
+          "trigger_date": "2018-06-19",
+          "end_date": "2018-07-12",
+          "duration_days": 18,
+          "trigger_breadth": 5.9,
+          "min_breadth": 4.64,
+          "fwd_3m_return": -12.59,
+          "fwd_6m_return": -20.06
+        },
+        {
+          "trigger_date": "2018-07-19",
+          "end_date": "2018-07-19",
+          "duration_days": 1,
+          "trigger_breadth": 9.75,
+          "min_breadth": 9.75,
+          "fwd_3m_return": -22.98,
+          "fwd_6m_return": -20.53
+        },
+        {
+          "trigger_date": "2018-08-02",
+          "end_date": "2018-08-06",
+          "duration_days": 3,
+          "trigger_breadth": 9.15,
+          "min_breadth": 6.71,
+          "fwd_3m_return": -11.3,
+          "fwd_6m_return": -5.46
+        },
+        {
+          "trigger_date": "2018-08-17",
+          "end_date": "2018-08-17",
+          "duration_days": 1,
+          "trigger_breadth": 8.91,
+          "min_breadth": 8.91,
+          "fwd_3m_return": -7.13,
+          "fwd_6m_return": 11.28
+        },
+        {
+          "trigger_date": "2018-10-11",
+          "end_date": "2018-10-19",
+          "duration_days": 7,
+          "trigger_breadth": 6.54,
+          "min_breadth": 3.35,
+          "fwd_3m_return": 5.67,
+          "fwd_6m_return": 33.54
+        },
+        {
+          "trigger_date": "2018-10-23",
+          "end_date": "2018-10-23",
+          "duration_days": 1,
+          "trigger_breadth": 9.88,
+          "min_breadth": 9.88,
+          "fwd_3m_return": 5.59,
+          "fwd_6m_return": 23.72
+        },
+        {
+          "trigger_date": "2018-10-25",
+          "end_date": "2018-10-25",
+          "duration_days": 1,
+          "trigger_breadth": 9.86,
+          "min_breadth": 9.86,
+          "fwd_3m_return": 4.82,
+          "fwd_6m_return": 23.8
+        },
+        {
+          "trigger_date": "2018-10-29",
+          "end_date": "2018-10-29",
+          "duration_days": 1,
+          "trigger_breadth": 9.08,
+          "min_breadth": 9.08,
+          "fwd_3m_return": 3.19,
+          "fwd_6m_return": 28.45
+        },
+        {
+          "trigger_date": "2019-06-06",
+          "end_date": "2019-06-10",
+          "duration_days": 2,
+          "trigger_breadth": 7.91,
+          "min_breadth": 7.91,
+          "fwd_3m_return": 19.08,
+          "fwd_6m_return": 23.11
+        },
+        {
+          "trigger_date": "2022-04-25",
+          "end_date": "2022-04-29",
+          "duration_days": 5,
+          "trigger_breadth": 5.79,
+          "min_breadth": 5.19,
+          "fwd_3m_return": 24.58,
+          "fwd_6m_return": 20.81
+        },
+        {
+          "trigger_date": "2022-05-06",
+          "end_date": "2022-05-06",
+          "duration_days": 1,
+          "trigger_breadth": 9.92,
+          "min_breadth": 9.92,
+          "fwd_3m_return": 20.74,
+          "fwd_6m_return": 15.62
+        },
+        {
+          "trigger_date": "2022-10-10",
+          "end_date": "2022-10-10",
+          "duration_days": 1,
+          "trigger_breadth": 9.86,
+          "min_breadth": 9.86,
+          "fwd_3m_return": 10.35,
+          "fwd_6m_return": 13.38
+        },
+        {
+          "trigger_date": "2024-01-22",
+          "end_date": "2024-01-22",
+          "duration_days": 1,
+          "trigger_breadth": 9.4,
+          "min_breadth": 9.4,
+          "fwd_3m_return": 4.78,
+          "fwd_6m_return": -14.12
+        },
+        {
+          "trigger_date": "2024-01-30",
+          "end_date": "2024-02-07",
+          "duration_days": 7,
+          "trigger_breadth": 8.5,
+          "min_breadth": 4.38,
+          "fwd_3m_return": 6.73,
+          "fwd_6m_return": -11.86
+        },
+        {
+          "trigger_date": "2024-07-08",
+          "end_date": "2024-07-08",
+          "duration_days": 1,
+          "trigger_breadth": 8.93,
+          "min_breadth": 8.93,
+          "fwd_3m_return": 18.07,
+          "fwd_6m_return": 30.36
+        },
+        {
+          "trigger_date": "2024-07-24",
+          "end_date": "2024-07-24",
+          "duration_days": 1,
+          "trigger_breadth": 9.55,
+          "min_breadth": 9.55,
+          "fwd_3m_return": 30.13,
+          "fwd_6m_return": 39.08
+        }
+      ]
+    },
+    "120": {
+      "stats": {
+        "ma_period": 120,
+        "ma_label": "半年线(120日)",
+        "total_triggers": 32,
+        "win_rate_3m": 62.5,
+        "win_rate_6m": 43.8,
+        "avg_return_3m": 2.36,
+        "avg_return_6m": -3.73,
+        "median_return_3m": 7.46,
+        "median_return_6m": -7.12,
+        "sample_3m": 32,
+        "sample_6m": 32
+      },
+      "ice_periods": [
+        {
+          "trigger_date": "2008-03-18",
+          "end_date": "2008-03-18",
+          "duration_days": 1,
+          "trigger_breadth": 9.55,
+          "min_breadth": 9.55,
+          "fwd_3m_return": -35.25,
+          "fwd_6m_return": -52.61
+        },
+        {
+          "trigger_date": "2008-04-01",
+          "end_date": "2008-04-29",
+          "duration_days": 20,
+          "trigger_breadth": 6.17,
+          "min_breadth": 3.45,
+          "fwd_3m_return": -22.76,
+          "fwd_6m_return": -58.26
+        },
+        {
+          "trigger_date": "2008-05-23",
+          "end_date": "2008-05-27",
+          "duration_days": 3,
+          "trigger_breadth": 9.54,
+          "min_breadth": 7.92,
+          "fwd_3m_return": -41.75,
+          "fwd_6m_return": -47.58
+        },
+        {
+          "trigger_date": "2008-05-29",
+          "end_date": "2008-12-02",
+          "duration_days": 127,
+          "trigger_breadth": 8.02,
+          "min_breadth": 0.14,
+          "fwd_3m_return": -40.48,
+          "fwd_6m_return": -41.78
+        },
+        {
+          "trigger_date": "2010-06-29",
+          "end_date": "2010-07-19",
+          "duration_days": 15,
+          "trigger_breadth": 6.04,
+          "min_breadth": 4.05,
+          "fwd_3m_return": 27.35,
+          "fwd_6m_return": 39.3
+        },
+        {
+          "trigger_date": "2011-06-20",
+          "end_date": "2011-06-20",
+          "duration_days": 1,
+          "trigger_breadth": 8.89,
+          "min_breadth": 8.89,
+          "fwd_3m_return": 4.76,
+          "fwd_6m_return": -19.25
+        },
+        {
+          "trigger_date": "2011-09-06",
+          "end_date": "2011-09-06",
+          "duration_days": 1,
+          "trigger_breadth": 9.76,
+          "min_breadth": 9.76,
+          "fwd_3m_return": -17.93,
+          "fwd_6m_return": -12.19
+        },
+        {
+          "trigger_date": "2011-09-13",
+          "end_date": "2011-09-13",
+          "duration_days": 1,
+          "trigger_breadth": 9.5,
+          "min_breadth": 9.5,
+          "fwd_3m_return": -16.89,
+          "fwd_6m_return": -16.01
+        },
+        {
+          "trigger_date": "2011-09-19",
+          "end_date": "2011-09-19",
+          "duration_days": 1,
+          "trigger_breadth": 9.66,
+          "min_breadth": 9.66,
+          "fwd_3m_return": -19.58,
+          "fwd_6m_return": -13.89
+        },
+        {
+          "trigger_date": "2011-09-23",
+          "end_date": "2011-10-25",
+          "duration_days": 18,
+          "trigger_breadth": 9.98,
+          "min_breadth": 3.88,
+          "fwd_3m_return": -20.88,
+          "fwd_6m_return": -13.27
+        },
+        {
+          "trigger_date": "2011-10-27",
+          "end_date": "2011-10-27",
+          "duration_days": 1,
+          "trigger_breadth": 9.95,
+          "min_breadth": 9.95,
+          "fwd_3m_return": -14.53,
+          "fwd_6m_return": -11.95
+        },
+        {
+          "trigger_date": "2011-12-12",
+          "end_date": "2012-02-10",
+          "duration_days": 38,
+          "trigger_breadth": 8.8,
+          "min_breadth": 1.93,
+          "fwd_3m_return": 1.08,
+          "fwd_6m_return": -14.56
+        },
+        {
+          "trigger_date": "2012-09-26",
+          "end_date": "2012-09-26",
+          "duration_days": 1,
+          "trigger_breadth": 9.4,
+          "min_breadth": 9.4,
+          "fwd_3m_return": 9.08,
+          "fwd_6m_return": 13.46
+        },
+        {
+          "trigger_date": "2012-11-27",
+          "end_date": "2012-12-04",
+          "duration_days": 6,
+          "trigger_breadth": 8.16,
+          "min_breadth": 5.68,
+          "fwd_3m_return": 27.16,
+          "fwd_6m_return": 12.1
+        },
+        {
+          "trigger_date": "2015-07-07",
+          "end_date": "2015-07-09",
+          "duration_days": 3,
+          "trigger_breadth": 8.04,
+          "min_breadth": 5.1,
+          "fwd_3m_return": 13.41,
+          "fwd_6m_return": 10.46
+        },
+        {
+          "trigger_date": "2015-08-24",
+          "end_date": "2015-10-14",
+          "duration_days": 31,
+          "trigger_breadth": 7.45,
+          "min_breadth": 2.34,
+          "fwd_3m_return": 25.62,
+          "fwd_6m_return": -6.32
+        },
+        {
+          "trigger_date": "2015-10-21",
+          "end_date": "2015-10-21",
+          "duration_days": 1,
+          "trigger_breadth": 9.19,
+          "min_breadth": 9.19,
+          "fwd_3m_return": -0.52,
+          "fwd_6m_return": 6.44
+        },
+        {
+          "trigger_date": "2016-01-13",
+          "end_date": "2016-01-13",
+          "duration_days": 1,
+          "trigger_breadth": 9.58,
+          "min_breadth": 9.58,
+          "fwd_3m_return": 7.66,
+          "fwd_6m_return": 2.62
+        },
+        {
+          "trigger_date": "2016-01-15",
+          "end_date": "2016-01-15",
+          "duration_days": 1,
+          "trigger_breadth": 9.83,
+          "min_breadth": 9.83,
+          "fwd_3m_return": 7.92,
+          "fwd_6m_return": -0.7
+        },
+        {
+          "trigger_date": "2016-01-26",
+          "end_date": "2016-02-03",
+          "duration_days": 7,
+          "trigger_breadth": 7.33,
+          "min_breadth": 5.51,
+          "fwd_3m_return": 10.73,
+          "fwd_6m_return": 8.4
+        },
+        {
+          "trigger_date": "2016-02-29",
+          "end_date": "2016-03-01",
+          "duration_days": 2,
+          "trigger_breadth": 6.7,
+          "min_breadth": 6.7,
+          "fwd_3m_return": 13.24,
+          "fwd_6m_return": 20.25
+        },
+        {
+          "trigger_date": "2016-03-09",
+          "end_date": "2016-03-11",
+          "duration_days": 3,
+          "trigger_breadth": 9.66,
+          "min_breadth": 7.89,
+          "fwd_3m_return": 6.52,
+          "fwd_6m_return": 12.06
+        },
+        {
+          "trigger_date": "2016-03-16",
+          "end_date": "2016-03-16",
+          "duration_days": 1,
+          "trigger_breadth": 9.23,
+          "min_breadth": 9.23,
+          "fwd_3m_return": 7.26,
+          "fwd_6m_return": 8.42
+        },
+        {
+          "trigger_date": "2018-02-06",
+          "end_date": "2018-02-07",
+          "duration_days": 2,
+          "trigger_breadth": 9.42,
+          "min_breadth": 9.42,
+          "fwd_3m_return": 15.79,
+          "fwd_6m_return": -16.75
+        },
+        {
+          "trigger_date": "2018-02-09",
+          "end_date": "2018-02-14",
+          "duration_days": 4,
+          "trigger_breadth": 6.76,
+          "min_breadth": 6.76,
+          "fwd_3m_return": 13.76,
+          "fwd_6m_return": -14.03
+        },
+        {
+          "trigger_date": "2018-06-19",
+          "end_date": "2018-07-11",
+          "duration_days": 17,
+          "trigger_breadth": 7.84,
+          "min_breadth": 6.63,
+          "fwd_3m_return": -12.59,
+          "fwd_6m_return": -20.06
+        },
+        {
+          "trigger_date": "2018-08-01",
+          "end_date": "2018-11-02",
+          "duration_days": 62,
+          "trigger_breadth": 9.03,
+          "min_breadth": 1.92,
+          "fwd_3m_return": -15.9,
+          "fwd_6m_return": -7.93
+        },
+        {
+          "trigger_date": "2022-04-25",
+          "end_date": "2022-04-29",
+          "duration_days": 5,
+          "trigger_breadth": 7.39,
+          "min_breadth": 6.2,
+          "fwd_3m_return": 24.58,
+          "fwd_6m_return": 20.81
+        },
+        {
+          "trigger_date": "2022-05-06",
+          "end_date": "2022-05-06",
+          "duration_days": 1,
+          "trigger_breadth": 9.79,
+          "min_breadth": 9.79,
+          "fwd_3m_return": 20.74,
+          "fwd_6m_return": 15.62
+        },
+        {
+          "trigger_date": "2024-01-31",
+          "end_date": "2024-02-07",
+          "duration_days": 6,
+          "trigger_breadth": 9.42,
+          "min_breadth": 5.42,
+          "fwd_3m_return": 12.46,
+          "fwd_6m_return": -9.53
+        },
+        {
+          "trigger_date": "2024-08-22",
+          "end_date": "2024-08-28",
+          "duration_days": 5,
+          "trigger_breadth": 9.13,
+          "min_breadth": 8.92,
+          "fwd_3m_return": 44.24,
+          "fwd_6m_return": 55.09
+        },
+        {
+          "trigger_date": "2024-09-13",
+          "end_date": "2024-09-18",
+          "duration_days": 2,
+          "trigger_breadth": 9.92,
+          "min_breadth": 9.78,
+          "fwd_3m_return": 41.34,
+          "fwd_6m_return": 32.24
+        }
+      ]
+    },
+    "250": {
+      "stats": {
+        "ma_period": 250,
+        "ma_label": "年线(250日)",
+        "total_triggers": 24,
+        "win_rate_3m": 58.3,
+        "win_rate_6m": 58.3,
+        "avg_return_3m": 6.1,
+        "avg_return_6m": 2.75,
+        "median_return_3m": 7.83,
+        "median_return_6m": 12.84,
+        "sample_3m": 24,
+        "sample_6m": 24
+      },
+      "ice_periods": [
+        {
+          "trigger_date": "2008-04-18",
+          "end_date": "2008-04-22",
+          "duration_days": 3,
+          "trigger_breadth": 9.42,
+          "min_breadth": 7.87,
+          "fwd_3m_return": -11.35,
+          "fwd_6m_return": -56.49
+        },
+        {
+          "trigger_date": "2008-06-10",
+          "end_date": "2009-02-06",
+          "duration_days": 161,
+          "trigger_breadth": 7.86,
+          "min_breadth": 0.14,
+          "fwd_3m_return": -38.22,
+          "fwd_6m_return": -34.3
+        },
+        {
+          "trigger_date": "2011-09-28",
+          "end_date": "2011-11-02",
+          "duration_days": 21,
+          "trigger_breadth": 8.44,
+          "min_breadth": 4.16,
+          "fwd_3m_return": -18.16,
+          "fwd_6m_return": -7.82
+        },
+        {
+          "trigger_date": "2011-11-08",
+          "end_date": "2011-11-08",
+          "duration_days": 1,
+          "trigger_breadth": 9.94,
+          "min_breadth": 9.94,
+          "fwd_3m_return": -13.56,
+          "fwd_6m_return": -18.16
+        },
+        {
+          "trigger_date": "2011-11-18",
+          "end_date": "2012-03-08",
+          "duration_days": 73,
+          "trigger_breadth": 8.21,
+          "min_breadth": 1.4,
+          "fwd_3m_return": -8.68,
+          "fwd_6m_return": -20.02
+        },
+        {
+          "trigger_date": "2012-03-14",
+          "end_date": "2012-03-15",
+          "duration_days": 2,
+          "trigger_breadth": 9.22,
+          "min_breadth": 9.22,
+          "fwd_3m_return": -13.45,
+          "fwd_6m_return": -22.13
+        },
+        {
+          "trigger_date": "2012-03-23",
+          "end_date": "2012-04-11",
+          "duration_days": 11,
+          "trigger_breadth": 9.41,
+          "min_breadth": 5.12,
+          "fwd_3m_return": -13.52,
+          "fwd_6m_return": -18.21
+        },
+        {
+          "trigger_date": "2012-07-30",
+          "end_date": "2012-07-31",
+          "duration_days": 2,
+          "trigger_breadth": 9.13,
+          "min_breadth": 8.61,
+          "fwd_3m_return": 0.68,
+          "fwd_6m_return": 14.24
+        },
+        {
+          "trigger_date": "2012-08-02",
+          "end_date": "2012-08-02",
+          "duration_days": 1,
+          "trigger_breadth": 9.94,
+          "min_breadth": 9.94,
+          "fwd_3m_return": -1.84,
+          "fwd_6m_return": 13.15
+        },
+        {
+          "trigger_date": "2012-08-30",
+          "end_date": "2012-08-30",
+          "duration_days": 1,
+          "trigger_breadth": 9.75,
+          "min_breadth": 9.75,
+          "fwd_3m_return": -8.62,
+          "fwd_6m_return": 13.6
+        },
+        {
+          "trigger_date": "2012-09-26",
+          "end_date": "2012-09-26",
+          "duration_days": 1,
+          "trigger_breadth": 8.42,
+          "min_breadth": 8.42,
+          "fwd_3m_return": 9.08,
+          "fwd_6m_return": 13.46
+        },
+        {
+          "trigger_date": "2012-11-15",
+          "end_date": "2012-11-16",
+          "duration_days": 2,
+          "trigger_breadth": 9.9,
+          "min_breadth": 9.73,
+          "fwd_3m_return": 17.98,
+          "fwd_6m_return": 13.59
+        },
+        {
+          "trigger_date": "2012-11-20",
+          "end_date": "2012-11-20",
+          "duration_days": 1,
+          "trigger_breadth": 9.56,
+          "min_breadth": 9.56,
+          "fwd_3m_return": 18.72,
+          "fwd_6m_return": 11.96
+        },
+        {
+          "trigger_date": "2012-11-22",
+          "end_date": "2012-12-06",
+          "duration_days": 11,
+          "trigger_breadth": 9.6,
+          "min_breadth": 5.56,
+          "fwd_3m_return": 24.01,
+          "fwd_6m_return": 12.54
+        },
+        {
+          "trigger_date": "2015-09-15",
+          "end_date": "2015-09-15",
+          "duration_days": 1,
+          "trigger_breadth": 9.69,
+          "min_breadth": 9.69,
+          "fwd_3m_return": 62.88,
+          "fwd_6m_return": 30.34
+        },
+        {
+          "trigger_date": "2016-01-28",
+          "end_date": "2016-01-28",
+          "duration_days": 1,
+          "trigger_breadth": 9.13,
+          "min_breadth": 9.13,
+          "fwd_3m_return": 12.52,
+          "fwd_6m_return": 14.97
+        },
+        {
+          "trigger_date": "2016-02-01",
+          "end_date": "2016-02-01",
+          "duration_days": 1,
+          "trigger_breadth": 9.91,
+          "min_breadth": 9.91,
+          "fwd_3m_return": 6.59,
+          "fwd_6m_return": 15.16
+        },
+        {
+          "trigger_date": "2016-02-29",
+          "end_date": "2016-02-29",
+          "duration_days": 1,
+          "trigger_breadth": 9.18,
+          "min_breadth": 9.18,
+          "fwd_3m_return": 13.24,
+          "fwd_6m_return": 20.25
+        },
+        {
+          "trigger_date": "2018-02-09",
+          "end_date": "2018-02-09",
+          "duration_days": 1,
+          "trigger_breadth": 9.63,
+          "min_breadth": 9.63,
+          "fwd_3m_return": 13.76,
+          "fwd_6m_return": -14.03
+        },
+        {
+          "trigger_date": "2018-06-19",
+          "end_date": "2019-02-01",
+          "duration_days": 156,
+          "trigger_breadth": 8.18,
+          "min_breadth": 1.52,
+          "fwd_3m_return": -12.59,
+          "fwd_6m_return": -20.06
+        },
+        {
+          "trigger_date": "2022-04-26",
+          "end_date": "2022-04-26",
+          "duration_days": 1,
+          "trigger_breadth": 9.3,
+          "min_breadth": 9.3,
+          "fwd_3m_return": 24.78,
+          "fwd_6m_return": 22.25
+        },
+        {
+          "trigger_date": "2024-01-31",
+          "end_date": "2024-02-08",
+          "duration_days": 7,
+          "trigger_breadth": 9.41,
+          "min_breadth": 6.15,
+          "fwd_3m_return": 12.46,
+          "fwd_6m_return": -9.53
+        },
+        {
+          "trigger_date": "2024-07-24",
+          "end_date": "2024-07-25",
+          "duration_days": 2,
+          "trigger_breadth": 9.78,
+          "min_breadth": 9.78,
+          "fwd_3m_return": 30.13,
+          "fwd_6m_return": 39.08
+        },
+        {
+          "trigger_date": "2024-08-20",
+          "end_date": "2024-09-23",
+          "duration_days": 23,
+          "trigger_breadth": 9.7,
+          "min_breadth": 7.24,
+          "fwd_3m_return": 39.65,
+          "fwd_6m_return": 52.05
+        }
+      ]
+    }
+  }
+}
