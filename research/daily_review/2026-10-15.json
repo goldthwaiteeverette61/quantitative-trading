@@ -1,0 +1,184 @@
+{
+  "date": "2026-10-15",
+  "rule_version": "review-v1",
+  "generated_at": "2026-10-19 11:53:31",
+  "regime": {
+    "regime": "panic_selloff",
+    "reason": "上证 -1.59% 且下跌家数占比 92%",
+    "index_spread_pp": 1.69,
+    "up_ratio": 0.077,
+    "dn_ratio": 0.919
+  },
+  "triggers": [
+    {
+      "rule": "index_pct_abs",
+      "value": -1.59,
+      "threshold": 1.5,
+      "detail": "上证 -1.59%"
+    },
+    {
+      "rule": "breadth_ratio",
+      "value": 0.919,
+      "threshold": 0.75,
+      "detail": "跌家数占比 91.9%"
+    }
+  ],
+  "tape": {
+    "index_pct": {
+      "sh000001": -1.59,
+      "sz399001": -2.43,
+      "sz399006": -2.92,
+      "sh000688": -1.5,
+      "sh000300": -1.23,
+      "sh000905": -3.02,
+      "sh000852": -3.28
+    },
+    "index_close": {
+      "sh000001": 3707.48,
+      "sz399001": 11816.79,
+      "sz399006": 2783.18,
+      "sh000688": 1359.52,
+      "sh000300": 4166.01,
+      "sh000905": 6769.25,
+      "sh000852": 6678.65
+    },
+    "adv": 400,
+    "dec": 4790,
+    "flat": 25,
+    "total": 5215,
+    "zt": 36,
+    "dt": 28,
+    "max_lianban": 5,
+    "turnover_yi": 16326.6,
+    "turnover_prev5_yi": [
+      14142.0,
+      16756.9,
+      15376.1,
+      19003.6,
+      16819.3
+    ],
+    "margin_balance_yi": 12990.1,
+    "drawdown_60d_pct": -7.09
+  },
+  "overseas": {
+    "snap_date": "2026-10-14",
+    "lag_days": 1,
+    "stale": true,
+    "vix": 15.27,
+    "us_10y": 5.21,
+    "usdcny": 6.7249,
+    "spx_pct": -0.02,
+    "ndx_pct": -0.15
+  },
+  "etf_flows": {
+    "data_date": "20261015",
+    "prev_date": "20261014",
+    "flows": {
+      "510300": {
+        "name": "华泰柏瑞300",
+        "delta_shares_yi": 7.95,
+        "amount_yi": 33.75
+      },
+      "510310": {
+        "name": "易方达300",
+        "delta_shares_yi": 45.69,
+        "amount_yi": 188.71
+      },
+      "510330": {
+        "name": "华夏300",
+        "delta_shares_yi": 0.49,
+        "amount_yi": 2.15
+      },
+      "510050": {
+        "name": "华夏50",
+        "delta_shares_yi": 2.87,
+        "amount_yi": 8.29
+      },
+      "510500": {
+        "name": "南方500",
+        "delta_shares_yi": 0.88,
+        "amount_yi": 5.98
+      },
+      "510880": {
+        "name": "红利ETF",
+        "delta_shares_yi": 0.55,
+        "amount_yi": 1.89
+      },
+      "512100": {
+        "name": "南方1000",
+        "delta_shares_yi": 1.7,
+        "amount_yi": 4.6
+      },
+      "588000": {
+        "name": "科创50ETF",
+        "delta_shares_yi": 46.14,
+        "amount_yi": 65.2
+      }
+    },
+    "total_amount_yi": 310.6
+  },
+  "events": {
+    "today": [],
+    "next": [
+      {
+        "event": "NFP",
+        "ref": "2026-10",
+        "bj_datetime": "2026-11-06 21:30"
+      },
+      {
+        "event": "CPI",
+        "ref": "2026-10",
+        "bj_datetime": "2026-11-10 21:30"
+      },
+      {
+        "event": "PPI",
+        "ref": "2026-10",
+        "bj_datetime": "2026-11-13 21:30"
+      }
+    ]
+  },
+  "timeline_size": 0,
+  "intraday_path": {
+    "上证": {
+      "open": 3711.18,
+      "midday": 3695.58,
+      "close": 3707.48,
+      "high": 3718.55,
+      "low": 3677.37,
+      "bars": 48,
+      "pm_selloff": false,
+      "morning_drop": false
+    },
+    "创业板": {
+      "open": 2801.68,
+      "midday": 2785.03,
+      "close": 2783.18,
+      "high": 2818.48,
+      "low": 2751.79,
+      "bars": 48,
+      "pm_selloff": false,
+      "morning_drop": true
+    }
+  },
+  "data_gaps": [
+    "新闻时间线（7x24 仅回溯约1.5天）",
+    "隔夜外盘（宏观表滞后）",
+    "两融余额（情绪表滞后）"
+  ],
+  "judgment": {
+    "summary": "市场恐慌性普跌，创业板领跌近3%，超九成个股下跌，量能显著放大。",
+    "structure": "创业板、中证500/1000领跌，中小盘跌幅深于大盘；涨跌停家数双高但跌停占比高，呈全面分化后的普跌格局。",
+    "drivers": [
+      {
+        "text": "资金逆势大幅加仓宽基ETF（尤其科创50），或反映机构逢低承接意愿",
+        "grade": "A",
+        "grade_label": "官方/交易所",
+        "evidence": "etf_flows: 588000 delta_shares_yi 46.14, amount_yi 65.2; 510310 amount_yi 188.71"
+      }
+    ],
+    "volume_note": "成交额1.63万亿，高于近5日均值约1.59万亿，放量下跌。",
+    "next_risk": "11月6日NFP数据发布，可能引发全球流动性预期波动。",
+    "confidence": "low"
+  },
+  "validation_problems": []
+}
